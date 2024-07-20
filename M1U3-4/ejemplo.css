@@ -1,0 +1,41 @@
+h1{
+    color: blue;/*color del texto*/
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+h2{
+    color: blue;
+}
+
+ul{
+    color: blueviolet;
+    line-height: 25px;        
+}
+
+h4{
+    color: burlywood;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: hotpink;
+    font-size: 20px;
+}
+
+.destacados{
+    color: brown;
+}
+
+.palabra{
+    color: green;
+    font-family: monospace;
+    font-size: 30px;
+}
+
+#caja{
+    background-color: greenyellow;
+    width: 500px;
+    height: 350px;
+}
