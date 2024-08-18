@@ -1,0 +1,35 @@
+.CajaGrande{
+    width: 600px;
+    height: 600px;
+    background-color: black;
+    display: inline-flex;
+    flex-wrap: wrap;
+    align-content: center; 
+    flex-direction: row-reverse;
+
+   
+ }
+ 
+ .Caja1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+ 
+ .Caja2{
+     width: 200px;
+     height: 200px;
+     background-color:blue;
+     color: white;
+     text-align: center;
+ }
+ 
+ .Caja3{
+     width: 200px;
+     height: 200px;
+     background-color: green;
+     color: white;
+     text-align: center;
+ }
